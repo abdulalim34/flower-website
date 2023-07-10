@@ -92,6 +92,20 @@ p{
     margin-top: 5px;
     
 }
+.part-four{
+    display: flex;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    padding:20px;
+    width: 70%;
+    margin: auto;
+    gap: 100px;
+    margin-top: 5px;
+    background-color:rgb(192, 192, 192) ;
+justify-content: space-around;
+    
+
+}
 
 
 
