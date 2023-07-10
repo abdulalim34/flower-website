@@ -54,5 +54,44 @@ p{
     text-align: center;
     padding: 10px;
 }
+.one{
+    text-decoration: underline;
+}
+.pink{
+    height: 350px;
+    width: 300px;
+    background-color: #acdde0;
+    border-radius: 100px 100px 0 0;
+}
+.two{
+    text-decoration: underline;
+}
+.three{
+    text-decoration: underline;
+}
+.red{
+    height: 350px;
+    width: 300px;
+    background-color: #959bf3;
+    border-radius: 80px 80px 0 0;
+}
+.green{
+    height: 350px;
+    width: 300px;
+    background-color: #96686c;
+    border-radius: 80px 80px 0 0;
+}
+.part-third{
+    display: flex;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    padding:10px;
+    width: 70%;
+    margin: auto;
+    gap: 7px;
+    margin-top: 5px;
+    
+}
+
 
 
