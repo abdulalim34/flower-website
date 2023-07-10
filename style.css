@@ -29,6 +29,7 @@
     text-align: center;
     text-decoration: none;
     font-size: 1.7rem;
+    align-items: center;
 }
 .center{
     color: white;
@@ -103,9 +104,49 @@ p{
     margin-top: 5px;
     background-color:rgb(192, 192, 192) ;
 justify-content: space-around;
-    
+}
+.part-five{
+    display: flex;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    padding:30px;
+    width: 80%;
+    margin: auto;
+    gap: 30px;
+    margin-top: 5px;
+    background-color: rgb(232, 244, 255);
+    border-radius: 20px;
+}
+.love-flower{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    gap: 8px;
 
 }
 
+.image-one{
+    width: 250px;
+    height:250px;
+    gap: 10px;
+   
+}
+.image-two{
+    width: 250px;
+    height:250px;
+    gap: 10px;
+   
+}
+.image-three{
+    width:250px;
+    height: 250px;gap: 10px;
+}
+.image-four{
+    width:250px;
+    height: 250px;
+    gap: 10px;
+}
 
 
