@@ -148,5 +148,32 @@ justify-content: space-around;
     height: 250px;
     gap: 10px;
 }
+.back{
+    width:1200px;
+    height: 400px;margin-left:50px;
+}
+.part-7{
+    display: flex;
+    ;
+}
+.seven{
+    height:60px;
+    width:700px ;
+    margin-left: 180px;
+}
+.main-div{
+    background-image:url("Flower\ Asset/Rectangle 9.png");
+    background-size:100vh;
+    width:70%;
+    margin:auto;
+
+}
+.footer{
+    background-color:black;
+    color:whitesmoke;
+}
+.shop{
+    color: darkred;
+}
 
 
